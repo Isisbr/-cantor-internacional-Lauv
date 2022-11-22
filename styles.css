@@ -6,7 +6,23 @@ body {
 #flor {
 	width: 50%;
 }
+
 {
-#album.jpeg
-   width: 50%
+#lauv.jpeg
+   width: 90%
+}
+
+ul{
+   display: inline-block;
+   vertical-align: top;
+   width: 20%
+   margin-right:15%
+}
+
+.principal {
+
+background: #cccccc;
+
+padding:30px ;
+
 }
